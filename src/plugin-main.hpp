@@ -30,7 +30,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>
 #include "UI/output-status-dock.hpp"
 #include "audio/audio-capture.hpp"
 
-#define MAX_SERVICES 8
+#define MAX_SERVICES 20
 
 class BranchOutputFilter : public QObject {
     Q_OBJECT
