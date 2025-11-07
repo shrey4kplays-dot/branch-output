@@ -33,7 +33,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>
 
 #define SETTINGS_JSON_NAME "recently.json"
 #define FILTER_ID "osi_branch_output"
-#define OUTPUT_MAX_RETRIES 20
+#define OUTPUT_MAX_RETRIES 15
 #define OUTPUT_RETRY_DELAY_SECS 1
 #define RECONNECT_ATTEMPTING_TIMEOUT_NS 2000000000ULL
 #define AVAILAVILITY_CHECK_INTERVAL_NS 1000000000ULL
